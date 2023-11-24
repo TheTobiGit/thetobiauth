@@ -23,7 +23,7 @@ async function signUp() {
     return;
   }
 
-  navigateTo("/");
+  navigateTo("/onboard");
 }
 </script>
 
